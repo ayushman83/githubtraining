@@ -1,0 +1,6 @@
+this ius a chat application.
+
+emoji
+text
+status
+type
