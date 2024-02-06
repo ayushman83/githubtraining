@@ -5,3 +5,6 @@ text
 status
 type
 hello
+
+payment option
+send money
